@@ -1,0 +1,9 @@
+*.apk
+*.aab
+*.jks
+keystore*
+local.properties
+.env
+.env.*
+!.env.example
+

@@ -1,0 +1,13 @@
+SailSense Live — Avvertenze
+
+Questa app è uno strumento di supporto alla performance velica. Non sostituisce cartografia nautica, AIS o strumentazione certificata.
+
+I dati (GPS, assetto, vento) sono stime e dipendono dal telefono. Verifica accelerometro e GPS prima di uscire in mare.
+
+La direzione del vento si ottiene segnando Port e Stbd in bolina.
+
+I file di registrazione restano sul telefono in Download/AtlasLive/.
+
+Utilizzando l'app accetti il Disclaimer e la Privacy Policy disponibili su [SITO].
+
+Contatto: [EMAIL]
